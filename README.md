@@ -7,6 +7,7 @@ Graduado en Ciencias de la Actividad Física y del Deporte y especializado en an
 ### Herramientas
 
 - Python
+- R
 - Pandas
 - SQL
 - Power BI
@@ -21,20 +22,22 @@ Graduado en Ciencias de la Actividad Física y del Deporte y especializado en an
 - Visualización de datos
 - Fútbol
 - Baloncesto
+- Balonmano
 - Pádel
+- Tenis
 
 ## Proyectos
 
-### ⚽ RC Celta Performance Analysis
+### ⚽ RC Celta Performance Analysis 2023-2024 vs 2024-2025
 Análisis comparativo del rendimiento del RC Celta mediante Python, SQL, Power BI y Tableau.
 
-### ⚽ LaLiga Midfield Offensive Contribution
+### ⚽ LaLiga Midfield Offensive Contribution 2025-2026
 Evaluación comparativa de mediocampistas de LaLiga mediante métricas ofensivas.
 
-### 📊 LaLiga Scouting Dashboard
+### 📊 LaLiga Scouting Dashboard 2025-2026
 Dashboard interactivo desarrollado en Power BI para comparación de jugadores.
 
-### 🏀 ACB Point Guard Impact
+### 🏀 ACB Point Guard Impact 2025-2026
 Análisis comparativo de bases de la Liga Endesa mediante una métrica propia de impacto.
 
 ## Formación
