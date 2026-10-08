@@ -40,6 +40,18 @@ Dashboard interactivo desarrollado en Power BI para comparación de jugadores.
 ### 🏀 ACB Point Guard Impact 2025-2026
 Análisis comparativo de bases de la Liga Endesa mediante una métrica propia de impacto.
 
+### 🎯 Radar de rendimiento — Nélson Semedo
+Visualización del perfil de rendimiento del jugador mediante métricas percentiles.
+
+### 📊 Nicolas Pépé vs Ferran Torres 
+Comparación de perfiles de rendimiento mediante métricas y visualización radar.
+
+### 🗺️ Italia — Pases peligrosos | Euro 2024 
+Análisis espacial de las acciones de pase más peligrosas de Italia durante la Eurocopa 2024.
+
+### 🔴 Liverpool — Zonas de disparo y red de pases 
+Análisis de los patrones de finalización y estructura de pases del Liverpool mediante datos de eventos.
+
 ## Formación
 
 - Grado en Ciencias de la Actividad Física y del Deporte
