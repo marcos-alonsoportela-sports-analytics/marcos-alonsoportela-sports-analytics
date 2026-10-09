@@ -52,6 +52,8 @@ Análisis espacial de las acciones de pase más peligrosas de Italia durante la 
 ### 🔴 Liverpool — Zonas de disparo y red de pases 
 Análisis de los patrones de finalización y estructura de pases del Liverpool mediante datos de eventos.
 
+### ⚽ Progressive Passing Analysis — Kevin De Bruyne vs Bruno Fernandes
+
 ## Formación
 
 - Grado en Ciencias de la Actividad Física y del Deporte
