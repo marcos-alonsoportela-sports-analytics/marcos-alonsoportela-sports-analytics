@@ -53,6 +53,7 @@ Análisis espacial de las acciones de pase más peligrosas de Italia durante la 
 Análisis de los patrones de finalización y estructura de pases del Liverpool mediante datos de eventos.
 
 ### ⚽ Progressive Passing Analysis — Kevin De Bruyne vs Bruno Fernandes
+Análisis espacial y comparativo de los pases progresivos de ambos jugadores para explorar su capacidad de progresión y generación de juego.
 
 ## Formación
 
